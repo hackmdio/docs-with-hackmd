@@ -1,5 +1,5 @@
 destination: ./build
-baseurl: 'docs-test'
+baseurl: 'docs-with-hackmd'
 title: "My doc site"
 theme: just-the-docs
 search_enabled: false
