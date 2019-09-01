@@ -1,9 +1,9 @@
 ---
-title: Test page
+title: Another page
 nav_order: 2
 ---
 
-Another new page
+Another page
 ===
 
 Hello world!
