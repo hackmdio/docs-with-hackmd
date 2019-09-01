@@ -20,5 +20,5 @@ Add a new page to doc site
 
 1. Create a new note on HackMD
 2. Modify the content on HackMD
-3. Select `Push to GitHub` and select your repo, `master` branch and create a file then click `Push`
+3. Select `Push to GitHub` and select your repo, `master` branch and create a new filename (e.g. `Another-page.md`) then click `Push`
 4. Wait for GitHub Actions build your doc site and view it on GitHub Pages!
