@@ -1,4 +1,5 @@
 destination: ./build
+baseurl: 'docs-test'
 title: "My doc site"
 theme: just-the-docs
 search_enabled: false
