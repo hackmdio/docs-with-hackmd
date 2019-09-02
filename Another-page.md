@@ -8,4 +8,4 @@ Another page
 
 Hello world!
 
-This is another page, enjoy!
+This is another page, enjoy :)
