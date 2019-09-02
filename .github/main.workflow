@@ -4,6 +4,6 @@ workflow "Build pages" {
 }
 
 action "build-deploy-to-github-pages" {
-  uses = "BryanSchuetz/jekyll-deploy-gh-pages@1.0"
+  uses = "hackmdio/jekyll-deploy-gh-pages@master"
   secrets = ["GITHUB_TOKEN"]
 }
